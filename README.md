@@ -1,4 +1,4 @@
 fooshot
 =======
 
-The Arduino C code that detects goals
+Foosball scoring and instant reply project.
